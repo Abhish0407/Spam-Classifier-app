@@ -32,5 +32,5 @@ To run this project on your own machine, follow these steps:
 
 **1. Clone the repository:**
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL_LATER>
+git clone https://github.com/Abhish0407/Spam-Classifier-app.git
 cd SPAM-CLASSIFIER
