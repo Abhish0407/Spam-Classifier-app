@@ -9,7 +9,7 @@ A simple and effective web application built with Streamlit to classify emails a
 
 -----
 
-![Spam Classifier App Screenshot](<https://github.com/Abhish0407/Spam-Classifier-app/blob/main/app-screenshot.png?raw=true)
+![Spam Classifier App Screenshot](https://github.com/Abhish0407/Spam-Classifier-app/blob/main/app-screenshot.png?raw=true)
 
 ---
 
