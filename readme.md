@@ -1,8 +1,15 @@
 # 📧 Email Spam Classifier
 
 A simple and effective web application built with Streamlit to classify emails as either "Spam" or "Ham" (not spam). This project uses a pre-trained Multinomial Naive Bayes model to make predictions in real-time.
+----
 
-![Spam Classifier App Screenshot](<REPLACE_WITH_A_SCREENSHOT_URL_LATER>)
+# 📧 Email Spam Classifier
+
+**Live Demo:** [spam-classifier-app-demo.streamlit.app](https://spam-classifier-app-demo.streamlit.app)
+
+-----
+
+![Spam Classifier App Screenshot](https://github.com/Abhish0407/Spam-Classifier-app/blob/main/app-screenshot.png?raw=true)
 
 ---
 
@@ -25,5 +32,5 @@ To run this project on your own machine, follow these steps:
 
 **1. Clone the repository:**
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL_LATER>
+git clone https://github.com/Abhish0407/Spam-Classifier-app.git
 cd SPAM-CLASSIFIER
